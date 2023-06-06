@@ -51,7 +51,6 @@ me.say_hi()
 ### ⚙️ Tools
 ![](https://img.shields.io/badge/Terminal-4D4D4D.svg?logo=WindowsTerminal&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white")
-![](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&logoColor=white)
 
