@@ -9,7 +9,7 @@
 
 ```python
 #!/usr/bin/python
-class Blood:
+class Clem:
     def __init__(self):
         self.name = "Clem"
         self.role = "Developer"
