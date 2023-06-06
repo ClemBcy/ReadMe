@@ -46,7 +46,7 @@ me.say_hi()
 
 
 ### ☁️ Cloud hosting
-https://squarecloud.app(Square Cloud)
+[SquareCloud](https://squarecloud.app)
 
 ### ⚙️ Tools
 ![](https://img.shields.io/badge/Terminal-4D4D4D.svg?logo=WindowsTerminal&logoColor=white)
