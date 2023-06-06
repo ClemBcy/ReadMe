@@ -11,14 +11,14 @@
 #!/usr/bin/python
 class Blood:
     def __init__(self):
-        self.name = "Blood"
+        self.name = "Clem"
         self.role = "Developer"
         self.language = ["Python" ,"Javascript"]
         self.language_learning = ["C"]
         self.language_spoken = ["fr_FR", "en_US"]
     def say_hi(self):
         print("HighSchool Student")
-me = Blood()
+me = Clem()
 me.say_hi()
 ```
 
